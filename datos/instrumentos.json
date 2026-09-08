@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra criolla",
+    "familia": "Cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de cuerdas pulsadas, tradicional en la música folclórica.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Bombo legüero",
+    "familia": "Percusión",
+    "origen": "Argentina",
+    "descripcion": "Tambor de gran tamaño utilizado en el folclore argentino.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Quena",
+    "familia": "Viento",
+    "origen": "Región andina",
+    "descripcion": "Flauta tradicional andina de sonido claro y profundo.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Charango",
+    "familia": "Cuerda",
+    "origen": "Altiplano andino",
+    "descripcion": "Instrumento pequeño de cuerdas característico de la música andina.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Saxofón alto",
+    "familia": "Viento",
+    "origen": "Bélgica",
+    "descripcion": "Instrumento de viento de metal usado en jazz, bandas y música popular.",
+    "disponible": false
+  }
+]
